@@ -42,7 +42,7 @@ $(document).ready(function() {
   origin = "Merchant DBA";
   currency = "MYR";
   amount = "1.10";
-  acceptedMethod = '["CC","SHOPEEPAY","TNG-EWALLET"]';
+  acceptedMethod = '["CC","SHOPEEPAY","TNG-EWALLET"]'; //Include ACCEPTED payment method
   googleMID = "YOUR_GOOGLE_MERCHANT_ID";
 
   paymentsClient.isReadyToPay(getGoogleIsReadyToPayRequest())
