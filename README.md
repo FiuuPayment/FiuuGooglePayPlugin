@@ -4,18 +4,18 @@
 
 ![banner Fiuu x GooglePay](https://github.com/FiuuPayment/FiuuGooglePayPlugin/assets/5105608/1f273ad1-475b-473d-bca3-8a5d2c1dffa4)
 
-# 🧾 Google Pay Integration Options for Fiuu Merchants
+# 🧾 Google Pay Web Integration Options for Fiuu Merchants
 
 Fiuu supports two types of Google Pay integration methods to accommodate varying technical needs and implementation preferences.
 
 Merchants can choose the integration that best suits their level of control, customization requirements, and ease of implementation.
 
-## 🎯 Integration Types
+## 🎯 Web Integration Types
 
 | Type                          | Description                                                                 |
 |-------------------------------|-----------------------------------------------------------------------------|
 | Direct Google Pay Integration | A fully customizable flow using Google Pay APIs and Fiuu endpoints. Best for merchants who need advanced UI control and logic customization. |
-| Fiuu Google Pay XDK Integration | A simplified integration using Fiuu’s hosted JavaScript XDK. Best for merchants who want fast and easy setup with minimal front-end code. |
+| Fiuu Google Pay JS XDK Integration | A simplified integration using Fiuu’s hosted JavaScript XDK. Best for merchants who want fast and easy setup with minimal front-end code. |
 
 ## ✅ When to Use Which?
 
